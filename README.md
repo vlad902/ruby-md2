@@ -1,0 +1,1 @@
+By no means should you use this code in production. I needed it for testing and couldn't find a ruby implementation of MD2, just publishing in case others have a similar need--not for real cryptographic use!
